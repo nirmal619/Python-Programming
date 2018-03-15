@@ -1,0 +1,15 @@
+    a=3
+    b=4
+    c=44
+    d=20
+    e=46
+    f=99
+    g=74
+    h=88
+    i=67
+    j=25
+    print(d+e+a+b+c+f+g+h+i+j)
+    print(f*g)
+    print(h/i)
+    print(a**b)
+    print(b%c)
