@@ -1,4 +1,4 @@
 n=int(input())
 for i in range(1,n):
-  b=n+i
-  print(b)
+  n=n+i
+  print(n)
