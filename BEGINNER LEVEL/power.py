@@ -1,3 +1,3 @@
-N=int(input())
+Ni=int(input())
 K=int(input())
-print(N**K)
+print(Ni**K)
