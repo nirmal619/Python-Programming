@@ -2,8 +2,8 @@ a=int(input())
 for i in range(2,a+1):
   if(a%i==0):
     if(a==i):
-      print(" prime")
+      print("yes")
       break
     else:
-      print("not a prime")
+      print("no")
       break
